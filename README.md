@@ -9,4 +9,6 @@ morale coding (title will change) is a text that outlines how emotion influences
 
 universal philosophy is a dialogue with GPT-4 about the nature of the universe and reality. It reflects my philosophy well on these outlooks, they propagate throughout all aspects of life and the values written in it are my own. That a transformer is capable of guessing correctly the next words that align to my own philosophy is a sign for me that the alignment issue is not as grave as AI researchers want it to be. It just depends on the training data, on the life lived. That being said, it makes training data extremely valueable.
 
+utopia and plea between the stars PDF are just quick and dirty answers to questions never asked.. I had a feeling that I needed to bring them, so I did. They pretty much absorbed my innermost feeling about those two desires. Written by GPT-4.
+
 next projects: alignment text, consciousness creation theory & Bodymind,"the future of goverment": e-democracy text, 
